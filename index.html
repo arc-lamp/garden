@@ -6,11 +6,12 @@
 <meta name="description" content="A digital garden">
 <meta name="author" content="Arc Lamp">
 <style>
+  
   h1 {
     text-align: right;
     padding-top: 40px;
   }
-  h2 {
+  h3 {
     text-align: right;
   }
   p {
@@ -20,8 +21,11 @@
     float: left;
     padding-top: 40px;
    }
-  div {
+  .block {
     display: flex;
+  }
+  .menu {
+    margin-left: 100px;
   }
   article {
     flex: 1;
@@ -31,20 +35,21 @@
 
 
 <body>
-<div>
-  <article></article>
+<div class="block">
   <article>
-    <h1>Arc Lamp Garden</h1>
-    <h2>A Portfolio and Blog</h2>
-    <p>Drawings</p>
-    <p><a href="https://arc-lamp.github.io/garden/blog">Blog</a></p>
-    <p>Links</p>
+    <div class="menu">
+      <h1>Arc Lamp Garden</h1>
+      <h3>A Portfolio and Blog</h2>
+      <p>Drawings</p>
+      <p><a href="https://arc-lamp.github.io/garden/blog">Blog</a></p>
+      <p>Links</p>
+    </div>
   </article>
   <article>
     <img src="https://user-images.githubusercontent.com/122163322/211176611-8aa5efc4-90da-44c6-b039-55b89af67c86.png" height=900 width=240 class="image">
   </article>
   <article></article>
-  <article></article>
+
 
 </div>
 
