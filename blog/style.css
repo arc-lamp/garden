@@ -1,0 +1,19 @@
+h1 {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+h2 {
+  margin-left: 40px;
+}
+p {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+blockquote {
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 20px;
+  background: lightsteelblue;
+  border-style: solid;
+  border-color: gray;
+}
