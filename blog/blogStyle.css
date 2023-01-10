@@ -8,6 +8,7 @@ h2 {
 p {
   margin-left: 80px;
   margin-right: 80px;
+  text-align: justify;
 }
 body {
   margin-bottom: 80px;
@@ -15,6 +16,16 @@ body {
 blockquote {
   margin-left: 120px;
   margin-right: 100px;
-  padding: 20px;
+  padding: 40px;
   background: lightsteelblue;
+  text-align: justify;
+}
+.bigCap {
+  font-family: "hoefler text";
+  font-size: 62px;
+  float: left;
+  margin-left: 80px;
+  margin-right: 8px;
+  margin-top: 3px;
+  margin-bottom: -20px;
 }
