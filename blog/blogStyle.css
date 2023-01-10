@@ -29,3 +29,9 @@ blockquote {
   margin-top: 3px;
   margin-bottom: -20px;
 }
+.limg { /* images that display on the left */
+    margin-left: 80px;
+}
+.rimg { /* images that display on the right */
+    margin-right: 80px;
+}
