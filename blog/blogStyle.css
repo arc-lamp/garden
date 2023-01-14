@@ -31,7 +31,9 @@ blockquote {
 }
 .limg { /* images that display on the left */
     margin-left: 80px;
+  float: left;
 }
 .rimg { /* images that display on the right */
     margin-right: 80px;
+  float: right;
 }
