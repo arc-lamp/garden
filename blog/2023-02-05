@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Feb 05, 2023</title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+
+<body> 
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Saturday::Feb, 05, 2023</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Hey Bozo: Hobbies</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">H</p><p>ey <a href="https://www.zazenbozo.com/">Bozo</a>,</p>
+
+<p>I've been thinking about hobbies and free time lately. Are some hobbies better than others? I like to think so, but I haven't gotten very far in figuring out how to judge and distinguish them.</p>
+
+<p>Should we be trying to maximize our free time? Or minimize it by filling our time with meaningful work? Is enjoyable work better than an enjoyable hobby?</p>
+
+<p>I have an inkling that the solution to these riddles has to do with getting a solid understanding of "what kind of animal a human being is". If you know what something is, you know what its purpose is. If you know what its purpose is, you can judge how it spends its time as good or bad. What kind of thing are we? And what kind of purpose would we accept as true for ourselves?</p>
+
+</body>
+
+</html>
