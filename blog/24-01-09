@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Jan 09, 2024 </title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Tuesday::Jan 09, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>The Survivors</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">T</p>
+
+<p>
+he wife and I just finished watching the Spanish film "La Sociedad de la Nieve", based on the true story of the 1972 Andes Flight Disaster. It was actually quite remarkably well-done -- much better than I had been anticipating. I'm typically not drawn to films whose primary subject matter is human suffering, but the original story itself is incredible, and the movies tells it well.
+</p>
+<p>
+The theme underpinning the film is the intersection of raw survival and moral action, specifically as it relates to cannibalism. The story hangs on every character's decision to eat or not the flesh of the dead in order to survive, and it does not deign to offer easy answers. Some of the most heroic characters attempt to go as long as possible without performing this act of desacration, but by the end, all the survivors, by necessity, had been surviving for more than two months entirely on the bodies of their friends and companions.
+</p>
+<p>
+None of the people on that flight ever thought they would be faced with the decision to starve, or eat the dead. While all were Roman Catholics, and consequently all had serious moral priors to treat the bodies of the dead with deep respect, I suspect that for every one of them, the decision felt novel, like coming face-to-face with a ghost -- something for which they were unprepared, and perhaps incapable of being prepared. The story touches on the way in which decisions snowball, similarly to the avalanches that plague them. The hardest bite to take is the first. By the end, cannibalism is a barely conscious habit.
+</p>
+<p>
+What does it take to have a well-thought-out moral compass? Far too often, our musings on such possibilities as faced the Andes survivors turn out to be entirely academic. When the situation itself grips us, all our forethought turns out to have been useless. We are making the decision <i>now</i>, not then. The story of the survivors is perhaps actually a misleading one. Given that they would survive, maybe most people would agree that resorting to cannibalism was worth it. But consider instead -- would you rather be someone who died of starvation out of an unshakeable respect for the departed; or someone who unburied them, and died anyway two weeks later? What chances of survival merit the corruption of those last few days?
+</p>
+<p>
+I was not there. Lord willing, I will never be faced with such a terrible choice, and I bring no judgement to bear upon those who endured so much. But I caution us not to attempt to make the decision banal, and the answer obvious, out of concern for those in desperate circumstances. It is a terrible thing to make a meal of the dead, as these survivors know, and paying them respect means delivering also to the dread of Judgement that shook each one of their souls.
+</p>
+
+</body>
+
+</html>
