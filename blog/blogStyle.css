@@ -16,6 +16,11 @@ p {
 body {
   margin-bottom: 80px;
 }
+ul {
+  margin-left: 80px;
+  margin-right: 80px
+  text-align: justify;
+}
 blockquote {
   margin-left: 142px;
   margin-right: 142px;
