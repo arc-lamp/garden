@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Jan 31, 2024 </title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Wednesday::Jan 31, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Under Roof</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">I</p>
+
+<p>
+ haven't been home in a long time. I left in the beginning of August, and have not lived under my own roof for six months now. Tomorrow, E---- and I return, finally, as husband and wife, to our own house, and begin to make it our <i>family's</i> house. I love this place so much, and I can't wait to love it even more as love takes seed within its walls. This will be the place in which my children grow up, God willing; I can't wait to see what it becomes.
+</p>
+
+</body>
+
+</html>
