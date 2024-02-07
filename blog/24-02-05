@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Feb 05, 2024 </title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Monday::Feb 05, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Loose Threads</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">T</p>
+
+<p>
+he different "chapters" of my life feel very distinct to me. I am not a "past-oriented" person, as I've mentioned before, and this means that I tend to lose touch with the past rather quickly. I'm often surprised when I crack open the book of my life and recall what I did when I was a younger man. "How is that me?" "Why did I do that?" "Why did I feel that way?"
+</p>
+<p>
+I got rid of my facebook page a long time ago, maybe 6 or 7 years now. It was causing me distress, and I had to sever the tie; and I proceeded to not think very much about it for those years, which turned out to be very active, formative years of my life. I just reactivated facebook today in order to use Marketplace, and spent some time looking over the fragments of lives of people I used to know, but about whom I have thought next to nothing in years. "She's married with kids?" "He's moved back to P---?" "She looks familiar, but I can't place her..."
+</p>
+<p>
+It's a bit bizarre. With the vast majority, I have no desire to reach out; things ended between us for a reason, we've all moved on, and I'm a very different person than when they knew me (maybe? It can be hard to tell from the inside. I <i>feel</i> very different, anyway). There are a few though, that I'll be reaching out to. It's fascinating opening up a chat log, and seeing an unreplied message a decade old. These loose threads blow about in the wind for a few years, and we can choose which ones to pick up again, to use, and make new.
+</p>
+
+</body>
+
+</html>
