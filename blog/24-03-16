@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Mar 16, 2024</title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Saturday::Mar 16, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Carving the Space</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">S</p>
+
+<p>
+pent a <i>lot</i> of time today starting to get the house more organized. It's still an absolute mess, but progress has been made. When you have your own house, it instantly becomes a magnet for an unholy amount of semi-garbage. It becomes hard to say "no" to things that <i>maybe, might</i> become useful someday. "I have the room!" you think to yourself. "I'm going to need furniture! A free table saw? Of course! This is a perfectly good desk!" Not to mention the tiny, infuriating detritus of hand-sized objects that are impossible to organize enough to even know what's trash and what's not. I'm not drowning yet, by any means, but we've filled a sizable room with <i>just</i> extra nonsense that we don't have any current use for, not to mention my room stuffed to the gills with tools, as I have no workshop yet. Why do I have six guitars and two amps that I never use? The world may never know.
+</p>
+<p>
+It is empowering having Elena here to help me with it all, though. Trying to stay on top of disorganization as an obsessive bachelor is...challenging. We help to motivate each other now. We can make decisions the other one doesn't want to. We have someone to work at it <i>for</i>, as we carve the space into something that can contain both of our spirits. It's just going to take a few Saturdays, for a few years. But we'll get there.
+</p>
+
+</body>
+
+</html>
