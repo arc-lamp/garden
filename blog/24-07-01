@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Jul 01, 2024</title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Monday::Jul 01, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Homeopathy</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">W</p>
+
+<p>
+hen I saw that my son's pediatrician was a naturopath and homeopathic doctor, I was definitely hoping that homeopathy was being referred to in some new, hip way. Like, he couldn't mean <i>that</i> homeopathy, right? The diluting-substances-in-water-until-there's-nothing-left one, from the eighteenth century? But I got the chance to clarify today, and that is in fact the homeopathy that he's talking about.
+</p>
+<p>
+I have my own issues and thoughts about the conclusions of a variety of mainstream sciences, and I have plenty of beliefs that are unpopular in modern society. But I do have to draw my lines somewhere, and I'm not particularly happy to hear that he's so all-in on this quackery. He's sweet and attentive, and I think in general he's a fine doctor, but the foundation of trust has for sure been a bit rocked.
+</p>
+
+</body>
+
+</html>
