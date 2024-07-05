@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Jul 04, 2024</title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Thursday::Jul 04, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Fourth of July</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">W</p>
+
+<p>
+e went from nothing happening on the Fourth of July to having an impromptu party of nine people very quickly today. This is one of my favorite ways for things to happen, just schedules happening to line up, and convergence occurring naturally. It's especially nice when the convergence happens at my house, and I don't have to go anywhere. There were a thousand dogs and two babies, and I loved everyone.
+</p>
+
+</body>
+
+</html>
