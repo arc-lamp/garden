@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Aug 01, 2024</title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Thursday::Aug 01, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Competence Illusion</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">I</p>
+
+<p>
+s the world messed up because of a centralized group of efficient bad actors? Or because of decentralized, somewhat arbitrary structural and human nature-related deficiencies? Probably my framing of the question betrays my sympathies. Whenever I hear about how highly skilled, malicious entities are purveying all the problems the world deals with, I just have to laugh. Who are these hyper-effective people? Where did they learn their duplicitous skills? All I see wherever I look is incompetence, self-deception, and random chance, all swirling around people and corporations who have some good ideas, and a thousand bad ones. I'll trust some scientists, and a few engineers to be competent at their jobs, but not much more than that, and that means that even truly bad actors are severely limited in their ability to cause concentrated harm. One occasionally hears about the seductive powers of advertisers, or of political parties strategy teams, or government psy-ops, or corporate misinformation, and I tell you this: these people are, by and large, absolute chodes. They are fools who have no idea how they got their success, and no idea how to keep it. Obviously there are exceptions to this iron rule of fools, but examine history; any time any institution has attempted to do anything with the slightest bit of subtlety, it has collapsed in their faces. No one understands the heart of man.
+</p>
+
+</body>
+
+</html>
