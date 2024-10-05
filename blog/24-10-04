@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Oct 04, 2024 </title> <!-- Date, format: Mmm DD, YYYY /-->
+
+<meta charset="UTF-8">
+<meta name="description" content="Blog post">
+<meta name="author" content="Jack Homer">
+
+<link rel="stylesheet" type="text/css" href="../blogStyle.css"> <!-- Stylesheet /-->
+
+</head>
+
+<body>
+
+<a href="https://arc-lamp.github.io/garden">Home</a> <!-- Navigation Links /-->
+<br>
+<a href="https://arc-lamp.github.io/garden/blog">Blog Archive</a>
+
+<h1>Friday::Oct 04, 2024</h1> <!-- Date, format: Dayofweek::Mmm DD, YYYY /-->
+<h2>Pre-Road Trip</h2> <!-- Title of Post /-->
+
+<!-- Post goes here, format by hand /-->
+<!-- Do NOT use <p> inside blockquotes! Use <br> /-->
+
+<p class="bigCap">I</p>
+
+<p>
+t's late and we have to go <i>back</i> to Boston tomorrow. Here's hoping the trip is about five times easier this time. I went to Ben and Will's pseudo-birthday party, and got to see Jesse and Eila and Mason for the first time in years. I talked with Ben about chess, played Go with Kaylee, talked rock climbing with Zeke. It was nice, but I didn't get to spend enough time with my wife and child today, frankly. Luckily, tomorrow is a family road trip. That should make up for it, I think.
+</p>
+
+</body>
+
+</html>
